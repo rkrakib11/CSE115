@@ -1,2 +1,2 @@
-#CSE115(C-programming)
+#CSE115
 Lab Exercises on C Programming
