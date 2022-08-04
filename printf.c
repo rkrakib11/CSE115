@@ -1,5 +1,7 @@
 #include <stdio.h>
 int main()
 {
-printf("what the fuck!");
+  printf("/tHello World!/n");
+  printf("Started learning C-programming.");
+  return 0;
 }
